@@ -1,4 +1,4 @@
-public class FaceTeste {
+    public class FaceTeste {
     WebDriver driver;
 
     @Before
@@ -40,9 +40,9 @@ public class FaceTeste {
         // Clica no botão Entrar
         driver.findElement(By.name("websubmit")).click();
     }
-
-   // @After
-   // public void depois(){
-    //    driver.quit();
+        //  Fecha a página após ser vizualizada
+        // @After
+        // public void depois(){
+        //    driver.quit();
 
     }
