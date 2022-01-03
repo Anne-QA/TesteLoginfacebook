@@ -1,4 +1,4 @@
-    <h1>🚀 [   Automação de Testes   ] </h1>
+    🚀  Automação de Testes  
 
 ###  💻 Tecnologias utilizadas: IntelliJ, Selenium Web Driver, Java.
 
